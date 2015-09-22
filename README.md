@@ -2,8 +2,8 @@
 
 ## Objectives
 
-1). Learn what a form tag is and how to use it
-2). Understand how to use the "method" and "action" attributes. 
+1. Learn what a form tag is and how to use it
+2. Understand how to use the "method" and "action" attributes. 
 
 ## Overview
 
