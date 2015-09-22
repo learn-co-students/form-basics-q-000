@@ -80,4 +80,3 @@ We can also label our inputs using the `label` tag - this simply tells our user 
 	<input type="submit">
 </form>
 ```
-\
