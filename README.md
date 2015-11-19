@@ -13,8 +13,6 @@ Have you ever posted on someone's Facebook wall? Tweeted about a recent event? H
 
 An HTML form consists of an opening and closing `form` tag. Inside of the `form` tags are any number of `input` tags. The `form` tag is like the envelope - it wraps around some content and determines the location to which it will be sent.
 
-hi
-
 ```html
 <form>
 </form>
